@@ -26,3 +26,6 @@ An advanced OCR web application built with **PaddleOCR, OpenCV, and Gradio** tha
   - `mix` (runs both + merges output)
 - ✅ Multi-page PDF extraction
 
+## Screenshot
+
+![App Screenshot](paddle_ui.png)
